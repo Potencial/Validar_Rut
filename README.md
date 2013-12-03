@@ -1,4 +1,4 @@
-Validar_Rut
+Validar Rut
 ===========
 
 Clase utilitaria para validar Rut Chileno.
